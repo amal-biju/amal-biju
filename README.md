@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I'm Amal Biju!
 
 🌱 I’m currently learning Full Stack Web Development.
 <!--
