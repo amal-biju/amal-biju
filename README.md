@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i><br/>
   <i>
+    <a href="https://amal-biju.github.io/"><img src="https://img.shields.io/badge/-PORTFOLIO-black?style=for-the-badge&logo=portfolio&logoColor=white"></a> 
     <a href="mailto:amalbiju99@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
     <a href="https://www.linkedin.com/in/amal-biju-63b723192/"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
     <a href="https://www.instagram.com/amal.b__/"><img src="https://img.shields.io/badge/-Instagram-d62977?style=for-the-badge&logo=instagram&logoColor=white">     </a>
