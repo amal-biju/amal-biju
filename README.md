@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 
 ### Github Stats
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=amal-biju.amal-biju)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amal-biju&show_icons=true&theme=dark&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal-biju&count_private=true&theme=dark&layout=compact">
