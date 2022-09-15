@@ -27,8 +27,11 @@ Here are some ideas to get you started:
 
 ### Github Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=amal-biju&show_icons=true&theme=dark&count_private=true" />
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amal-biju&theme=dark&count_private=true&bg_color=0d1116&title_color=F7ED1B&text_color=a4aacb&icon_color=F7ED1B)
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal-biju&count_private=true&theme=dark&layout=compact">
 </p>
 
